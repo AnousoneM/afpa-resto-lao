@@ -1,0 +1,14 @@
+{
+  "name": "resto-lao",
+  "version": "1.0.0",
+  "description": "Restaurant fictif sur la cuisine laotienne",
+  "main": "index.html",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Anousone M.",
+  "license": "ISC",
+  "dependencies": {
+    "bootstrap": "^5.3.3"
+  }
+}
